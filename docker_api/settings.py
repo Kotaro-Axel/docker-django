@@ -73,7 +73,7 @@ DATABASES = {
         'ENGINE': 'djongo',
         'NAME': 'mongoData',
         'USER': 'test',
-        'HOST': '172.17.255.255',
+        'HOST': 'localhost',
         'PORT': 27017,
     }
     
